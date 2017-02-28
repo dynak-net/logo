@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/Corporate_identity#Visual_identity
 
 https://en.wikipedia.org/wiki/DejaVu_fonts
 
+https://dejavu-fonts.github.io
+
 https://www.fontsquirrel.com/fonts/dejavu-sans-mono
 
 https://wiki.archlinux.org/index.php/Xterm#Fonts 
